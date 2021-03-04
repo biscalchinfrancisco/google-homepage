@@ -1,0 +1,3 @@
+This is my first project, I'm going to create a Google homepage.
+Learning how to move divs around, where should I put them, learning how to deal with the web dev. tool, etc...
+
